@@ -9,7 +9,7 @@ export const personalInfo = {
     phone: '+91 6204043724',
     location: 'Bengaluru, India',
     github: 'https://github.com/Techy-Raihan',
-    linkedin: 'https://linkedin.com/in/raihanraza',
+    linkedin: 'https://www.linkedin.com/in/raihan-raza-a8aa97191/',
     resumeUrl: '/Raihan_Raza_Resume.pdf',
 };
 
